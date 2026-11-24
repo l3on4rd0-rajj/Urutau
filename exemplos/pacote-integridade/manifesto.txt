@@ -1,0 +1,15 @@
+{
+  "versao": 2,
+  "codificacao": "base64",
+  "entradas": [
+    {
+      "caminho": "mensagem.txt",
+      "modo": 420,
+      "tipo": "arquivo",
+      "partes": [
+        "00000000.txt"
+      ],
+      "sha256": "093290658361903e80f9377e9eaac5d7261f24660abfcd5f54ddd907f5b61002"
+    }
+  ]
+}
